@@ -1,4 +1,4 @@
-![Image of Storm Trooper](https://github.com/Defalt42/star-wars-app/blob/master/starwars.jpg)
+![Image of Storm Trooper in the Sand](/starwars.jpg)
 
 # Star Wars App
 
