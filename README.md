@@ -1,4 +1,4 @@
-<a href="#"><img src="" title="Star Wars" alt="Star Wars"></a>
+![Image of Yaktocat](https://github.com/Defalt42/star-wars-app/blob/master/starwars.jpg)
 
 # Star Wars App
 
